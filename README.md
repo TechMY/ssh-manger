@@ -1,4 +1,4 @@
-## ◇── 4-0-4 VPS MANAGER ──◇
+## ◇── SSH VPS MANAGER ──◇
 
 ㅤ
 <p align="left">
@@ -16,7 +16,7 @@ ___REFERRAL LINK___
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/nyeinkokoaung404/ssh-manger/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/TechMY/ssh-manger/main/hehe; chmod 777 hehe;./hehe
 
 ```
 
